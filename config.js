@@ -20,7 +20,7 @@ window.CONFIG = {
   // Segunda página interna de presentes (imagem: assets/presentes2.webp).
   presentes2: { botao: {"left":61.22684954073482,"top":44.98504507005479,"width":26.50479545227636,"height":3.2462601700749167}, 
                voltar: {"left":19.501619284145367,"top":88.2577727418507,"width":52,"height":5.123130085037459}, 
-               mostrarVoltar: true 
+               mostrarVoltar: false 
               },
 
 
@@ -96,8 +96,8 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":24.404469723442492,"top":86.13164201336294,"width":50.297118360623,"height":5.268357986637058} },
-    dresscode: { mostrarTexto:true, posicao: {"left":27.214376996805107,"top":88.38146923699121,"width":44.94569626098242,"height":4.158797328254562} },
-    manual: { mostrarTexto:true, posicao: {"left":25.37411828574281,"top":86.42519901174322,"width":48.012773312699686,"height":4.619108147499635} }
+    dresscode: { mostrarTexto:false, posicao: {"left":27.214376996805107,"top":88.38146923699121,"width":44.94569626098242,"height":4.158797328254562} },
+    manual: { mostrarTexto:false, posicao: {"left":25.37411828574281,"top":86.42519901174322,"width":48.012773312699686,"height":4.619108147499635} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
